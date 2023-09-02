@@ -17,8 +17,8 @@ html {
   max-width: 1200px;
   block-size: 100%;
   max-height: 800px;
-  display: flex;
-  place-content: center;
+  display: grid;
+  place-items: center;
 }
 
 h1,
