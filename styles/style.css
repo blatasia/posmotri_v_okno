@@ -51,10 +51,6 @@ ol {
   white-space: nowrap;
 }
 
-.page {
-  max-width: 1200px;
-}
-
 .content {
   display: grid;
   grid-template-columns: repeat(2, auto);
@@ -207,15 +203,6 @@ ol {
 
 .content__accent {
   color: #545050;
-  position: relative;
-}
-
-.content__accent::after {
-  content: "-";
-  font-family: sans-serif;
-  font-size: 75px;
-  position: absolute;
-  inset-block-start: 15px;
 }
 
 .content__list {
