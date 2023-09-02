@@ -1,4 +1,2 @@
-# posmotri_v_okno
-Проект "Посмотри в окно"
-
-https://github.com/blatasia/ono-tebe-nado.git
+{\rtf1}
+https://github.com/blatasia/posmotri_v_okno.git
