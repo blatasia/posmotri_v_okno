@@ -242,8 +242,7 @@ ol {
 
 .content__list {
   position: relative;
-  block-size: inherit;
-  max-height: 534px;
+  block-size: 534px;
   overflow-y: scroll;
   overflow-x: hidden;
   inline-size: 415px;
